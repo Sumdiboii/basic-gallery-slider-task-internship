@@ -16,6 +16,8 @@
 
 ---
 
+<br>
+
 ## 🚀 Project Overview
 
 This simple gallery slider was built using HTML, CSS, and JavaScript during an early phase of my development journey, as part of a virtual internship. The project focuses on basic DOM manipulation and UI animation, offering a hands-on introduction to interactivity in web design. It remains on my GitHub as a visual marker of progress and early learning in frontend development.
@@ -23,6 +25,8 @@ This simple gallery slider was built using HTML, CSS, and JavaScript during an e
 <br>
 
 ---
+
+<br>
 
 ## 🛠️ Tech Stack and Tools
 
@@ -59,6 +63,8 @@ This simple gallery slider was built using HTML, CSS, and JavaScript during an e
 
 ---
 
+<br>
+
 ## 🔍 Features
 
 - ➡️ Previous/Next button navigation  
@@ -69,6 +75,8 @@ This simple gallery slider was built using HTML, CSS, and JavaScript during an e
 <br>
 
 ---
+
+<br>
 
 ## 📚 Key Learning Outcomes
 
@@ -81,11 +89,19 @@ This simple gallery slider was built using HTML, CSS, and JavaScript during an e
 
 ---
 
-## 🖼️ Demo Preview
+<br>
+
+## 🖼️ Screenshots
+
+<br>
 
 <!-- Add a screenshot or GIF here -->
 <p align="center">
-  <img src="readme-images/gallery-preview.gif" width="80%" alt="Gallery Demo" />
+  <img src="readme-images/c1.png" width="80%" alt="Gallery Demo1" />
+   <img src="readme-images/c2.png" width="80%" alt="Gallery Demo2" />
+   <img src="readme-images/c3.png" width="80%" alt="Gallery Demo3" />
+   <img src="readme-images/c4.png" width="80%" alt="Gallery Demo4" />
+   <img src="readme-images/c5.png" width="80%" alt="Gallery Demo5" />
 </p>
 
 <br>
